@@ -1,0 +1,4 @@
+item,type,version_min,purpose,cost,source
+Python,runtime,3.8,interpreter,free,python.org
+Camotics,tool,1.2,gcode simulation,free,camotics.org
+NC Viewer,tool,web,gcode visualization,free,ncviewer.com

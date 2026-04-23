@@ -1,0 +1,13 @@
+{
+  "name": "hex_profile",
+  "description": "Hexagon inscribed in R=40mm, centered at (50,50), 30deg rotation",
+  "units": "mm",
+  "points": [
+    {"x": 84.641, "y": 70.0},
+    {"x": 50.0,   "y": 90.0},
+    {"x": 15.359, "y": 70.0},
+    {"x": 15.359, "y": 30.0},
+    {"x": 50.0,   "y": 10.0},
+    {"x": 84.641, "y": 30.0}
+  ]
+}

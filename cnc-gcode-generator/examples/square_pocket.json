@@ -1,0 +1,11 @@
+{
+  "name": "square_pocket",
+  "description": "80x80mm square contour starting at (10,10)",
+  "units": "mm",
+  "points": [
+    {"x": 10, "y": 10},
+    {"x": 90, "y": 10},
+    {"x": 90, "y": 90},
+    {"x": 10, "y": 90}
+  ]
+}
